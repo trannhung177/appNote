@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/anh7"
+    tools:context=".gioithieu"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="APP TODOLIS"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="#6AC34A"
+
+
+        />
+
+    <TextView
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:background="#C3A54A"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="APP TODOLISt là một app quản lí công việc cần làm được xây dựng bởi 3 sinh viên Nguyễn Vân Anh, Lê Minh Hiếu và Trần Thị Hồng Nhung.
+Gồm các chực năng cơ bản là : đặt lịch hẹn , chuông báo thức  , APP  dễ sử dụng với các chức năng cần thiết để hỗ trợ bạn trong công việc"
+        android:textSize="16sp"
+        android:textStyle="italic"
+
+        />
+
+</LinearLayout>

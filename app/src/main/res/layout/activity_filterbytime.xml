@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nen2"
+    >
+
+    <TextView
+        android:id="@+id/tv_beforeTime"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:background="#EF6A40"
+        android:gravity="center"
+        android:text="Trước"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tv_afterTime"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:text="Sau"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tv_inRangeTime"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:background="#C6B942"
+        android:gravity="center"
+        android:text="Trong khoảng"
+        android:textSize="30dp" />
+</LinearLayout>

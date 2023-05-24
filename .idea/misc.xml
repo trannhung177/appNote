@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BTL/app/src/main/res/drawable-v24/bg.xml" value="0.2125" />
+        <entry key="..\:/BTL/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2125" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_addlichhen.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_bamgio.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_chuonghengio.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_filter.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_filterbyday.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_filterbytime.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_gioithieu.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_intent.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_lichhen.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_signin.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_signup.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/activity_trangchu.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/datefilterbyday.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/datefilterbydayrange.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/dialog_filterbytime.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/dialog_filterbytimerange.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/exit.xml" value="0.23333333333333334" />
+        <entry key="..\:/BTL/app/src/main/res/layout/hien.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/layout/layout.xml" value="0.2359375" />
+        <entry key="..\:/BTL/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/BTL/app/src/main/res/menu/menu_main.xml" value="0.234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
